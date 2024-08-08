@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/custom_services/employee/pom.xml" />
+        <option value="$PROJECT_DIR$/custom_services/apigateway/pom.xml" />
+        <option value="$PROJECT_DIR$/custom_services/systementry/pom.xml" />
+        <option value="$PROJECT_DIR$/default_services/gcam/pom.xml" />
+        <option value="$PROJECT_DIR$/default_services/authproxy/pom.xml" />
+        <option value="$PROJECT_DIR$/default_services/gepfilemanager/pom.xml" />
+        <option value="$PROJECT_DIR$/default_services/securitymanager/pom.xml" />
+        <option value="$PROJECT_DIR$/default_services/systemcredentialmanager/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
